@@ -1,1 +1,1 @@
-# database_rds
+# This repository is created for learning purpose.
